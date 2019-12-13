@@ -1,0 +1,15 @@
+{
+  "unsafeMode": false,
+  "errorReporting": true,
+  "unmountOnSuccess": true,
+  "validateWriteOnSuccess": true,
+  "trim": true,
+  "updatesEnabled": true,
+  "lastSleptUpdateNotifier": null,
+  "lastSleptUpdateNotifierVersion": null,
+  "desktopNotifications": false,
+  "fullscreen": true,
+  "driveBlacklist": "/dev/mmcblk0rpmb,/dev/mmcblk0,/dev/mmcblk0boot0,/dev/mmcblk0boot1",
+  "disableExternalLinks": true,
+  "disableUnsafeMode": true
+}
